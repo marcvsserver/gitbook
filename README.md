@@ -7,7 +7,11 @@ description: >-
 
 # DittoSMP
 
-Die IP des Servers ist: 94.130.33.161:5500
+Um auf dem Minecraft Server spielen zu dürfen, müsst ihr auf dem Discord Server euren Benutzernamen schreiben und von uns angenommen werden.
+
+Die IP des Servers ist: 94.130.33.161:5500\
+\
+Wir haben auch einen Discord Server (auf dem ihr schon sein solltet): [https://discord.gg/ZVRrBUJEEq](https://discord.gg/ZVRrBUJEEq)
 
 
 
