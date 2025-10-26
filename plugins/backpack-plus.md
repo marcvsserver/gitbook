@@ -1,5 +1,4 @@
 ---
-description: 'Plugin: https://modrinth.com/plugin/backpack-plus'
 icon: backpack
 ---
 
@@ -22,3 +21,5 @@ Je mehr Slots der Rucksack hat, desto mehr kostet dieser natürlich auch in der 
 
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Das ist der "Netherite Backpack". Dieser hat 90 Slots und ist somit der beste aber auch teuerste.</td><td data-object-fit="fill"><a href="../.gitbook/assets/image (4).png">image (4).png</a></td></tr><tr><td>Das ist der "Small Netherite Backpack". Dieser hat 72 Slots.</td><td data-object-fit="fill"><a href="../.gitbook/assets/image (3).png">image (3).png</a></td></tr><tr><td>Das ist der "Diamond Backpack". Dieser hat 54 Slots.</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (2).png">image (2).png</a></td></tr><tr><td>Das ist der "Golden Backpack". Dieser hat 20 Slots.</td><td data-object-fit="contain"><a href="../.gitbook/assets/image (1).png">image (1).png</a></td></tr><tr><td>Das ist der "Basic Backpack". Dieser hat 9 Slots und ist damit auch der schlechteste, </td><td data-object-fit="contain"><a href="../.gitbook/assets/image.png">image.png</a></td></tr></tbody></table>
+
+Plugin: [https://modrinth.com/plugin/backpack-plus](https://modrinth.com/plugin/backpack-plus)
