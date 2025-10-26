@@ -1,5 +1,4 @@
 ---
-description: 'Plugin: https://modrinth.com/plugin/imageframe'
 icon: image-landscape
 ---
 
@@ -15,3 +14,7 @@ Mit **ImageFrame** könnt ihr **Bilder und GIFs** direkt auf **Karten oder Item 
 * Optional **unsichtbare Item Frames** für saubere Deko (indem man eine Invisible Potion draufwirft)
 
 💡 **Tipp:** Wenn ihr ein bestimmtes Bild auf dem Server sehen wollt, **schlagt es mir einfach vor** – ich kann es dann hinzufügen!
+
+
+
+Plugin: [https://modrinth.com/plugin/imageframe](https://modrinth.com/plugin/imageframe)

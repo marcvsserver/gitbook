@@ -1,5 +1,4 @@
 ---
-description: 'Plugin: https://modrinth.com/plugin/stackmob'
 icon: pig
 ---
 
@@ -9,3 +8,7 @@ icon: pig
 \
 Mobs die in einem Radius von 3 Blöcken sind, werden ab der Anzahl von 5 bis zu einem Stack von 30 gestapelt.\
 Diese Stapel droppen die normale Anzahl an Items mal der Anzahl an Mobs im Stack.
+
+
+
+Plugin: [https://modrinth.com/plugin/stackmob](https://modrinth.com/plugin/stackmob)

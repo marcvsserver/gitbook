@@ -1,7 +1,4 @@
 ---
-description: >-
-  Plugin/Mod:
-  https://modrinth.com/plugin/simple-voice-chat?version=1.21.10&loader=fabric
 icon: microphone-stand
 ---
 
@@ -17,3 +14,7 @@ Die Gruppenchats funktionieren über die gesamte Welt, das heißt jeder, der in 
 
 \
 Für die Nutzung wird **außerdem ein Client-Side-Mod** benötigt.
+
+
+
+Plugin/Mod: [https://modrinth.com/plugin/simple-voice-chat?version=1.21.10\&loader=fabric](https://modrinth.com/plugin/simple-voice-chat?version=1.21.10\&loader=fabric)

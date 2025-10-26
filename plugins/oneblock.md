@@ -1,5 +1,4 @@
 ---
-description: 'Plugin: https://modrinth.com/plugin/aoneblock'
 icon: block
 ---
 
@@ -21,4 +20,6 @@ Wenn ihr alle Phasen geschafft habt, beginnt der Zyklus wieder von vorn.
 
 * `/ob` → Startet euer eigenes OneBlock-Abenteuer
 * `/ob help` → Zeigt euch alle wichtigen Infos
+
+Plugin: [https://modrinth.com/plugin/aoneblock](https://modrinth.com/plugin/aoneblock)
 

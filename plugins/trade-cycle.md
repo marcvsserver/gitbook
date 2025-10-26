@@ -1,5 +1,4 @@
 ---
-description: 'Plugin: /https://modrinth.com/plugin/tradecycle'
 icon: money-bill-trend-up
 ---
 
@@ -13,3 +12,6 @@ Mit **TradeCycle** könnt ihr beim **Villager-Trading** ganz einfach durch die A
 
 💡 **Hinweis:**\
 Ihr könnt nur durch Trades wechseln, wenn der Villager **noch keinen Handel abgeschlossen** hat und **einen Beruf** besitzt.
+
+Plugin: [https://modrinth.com/plugin/tradecycle](https://modrinth.com/plugin/tradecycle)
+
