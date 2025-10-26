@@ -1,4 +1,5 @@
 ---
+description: 'Plugin: https://www.curseforge.com/minecraft/bukkit-plugins/dropheads'
 icon: head-side
 ---
 

@@ -1,4 +1,5 @@
 ---
+description: 'Mod/Plugin: https://modrinth.com/plugin/patpat'
 icon: dog
 ---
 

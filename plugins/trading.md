@@ -1,4 +1,5 @@
 ---
+description: 'Plugin: https://modrinth.com/plugin/tradecycle'
 icon: money-bill-trend-up
 ---
 

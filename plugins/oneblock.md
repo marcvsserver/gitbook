@@ -1,4 +1,5 @@
 ---
+description: 'Plugin: https://modrinth.com/plugin/aoneblock'
 icon: block
 ---
 

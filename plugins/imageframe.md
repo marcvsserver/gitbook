@@ -1,4 +1,5 @@
 ---
+description: 'Plugin: https://modrinth.com/plugin/imageframe'
 icon: image-landscape
 ---
 
