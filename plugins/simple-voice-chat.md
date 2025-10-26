@@ -1,4 +1,7 @@
 ---
+description: >-
+  Plugin/Mod:
+  https://modrinth.com/plugin/simple-voice-chat?version=1.21.10&loader=fabric
 icon: microphone-stand
 ---
 
