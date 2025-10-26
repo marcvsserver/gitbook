@@ -14,6 +14,6 @@
 * [Dropheads](plugins/dropheads.md)
 * [ImageFrame](plugins/imageframe.md)
 * [Oneblock](plugins/oneblock.md)
-* [Trading](plugins/trading.md)
+* [Trade Cycle](plugins/trade-cycle.md)
 * [Teleportation (TPA)](plugins/teleportation-tpa.md)
 * [Backpack Plus](plugins/backpack-plus.md)
