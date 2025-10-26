@@ -1,9 +1,9 @@
 ---
-description: 'Plugin: https://modrinth.com/plugin/tradecycle'
+description: 'Plugin: /https://modrinth.com/plugin/tradecycle'
 icon: money-bill-trend-up
 ---
 
-# Trading
+# Trade Cycle
 
 Mit **TradeCycle** könnt ihr beim **Villager-Trading** ganz einfach durch die Angebote wechseln, ohne den Villager neu platzieren zu müssen.
 
