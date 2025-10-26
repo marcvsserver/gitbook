@@ -10,7 +10,7 @@ Die Lautstärke hängt davon ab, **wie nah ihr beieinander steht** (Proximity Ch
 💡 Unterstützt **Gruppen-Chats**, **Push-to-Talk** und **Whispern**.
 
 \
-Die Gruppenchats funktionieren über die gesamte Welt, das heißt jeder, der in dieser Gruppe ist, kann überall gehört werden, von anderen Gruppenmitgliedern.
+Die Gruppenchats funktionieren über die gesamte Welt, das heißt jeder, der in dieser Gruppe ist, kann von anderen Gruppenmitgliedern überall gehört werden.
 
 \
 Für die Nutzung wird **außerdem ein Client-Side-Mod** benötigt.
